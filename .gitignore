@@ -1,0 +1,7 @@
+# Raw CTDC data must not be redistributed (see data/README.md)
+data/*.csv
+!data/GEOG594A_D8_F1_NodeCentroids.csv
+outputs/*
+!outputs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
